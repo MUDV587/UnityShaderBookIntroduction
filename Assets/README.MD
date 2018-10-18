@@ -16,3 +16,16 @@ fragment
 program
 tangent
 saturate
+irradiance
+scattering
+absorption
+refraction
+transimission
+reflection
+specular
+diffuse
+exitance
+emissive
+ambient
+gloss
+shininess
