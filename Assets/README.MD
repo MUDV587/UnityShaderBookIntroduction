@@ -29,3 +29,7 @@ emissive
 ambient
 gloss
 shininess
+texel
+coordinates
+bump
+displacement
