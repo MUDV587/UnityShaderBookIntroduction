@@ -33,3 +33,12 @@ texel
 coordinates
 bump
 displacement
+spherical
+harmonics
+spot
+swizzle
+Apparently
+declaration
+exposure
+ratio
+_Distortion
