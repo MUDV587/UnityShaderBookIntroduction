@@ -41,4 +41,14 @@ Apparently
 declaration
 exposure
 ratio
-_Distortion
+distortion
+horizontal
+vertical
+Multiplier
+Magnitude
+Frequency
+Restraints
+approximate
+gaps
+fences
+vegetation
