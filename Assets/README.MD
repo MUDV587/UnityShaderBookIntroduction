@@ -52,3 +52,10 @@ approximate
 gaps
 fences
 vegetation
+stencil
+luminance
+saturation
+brightness
+contrast
+gradient
+accumulation
